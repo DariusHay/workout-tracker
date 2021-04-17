@@ -3,8 +3,8 @@ const Workout = require('../models/workout');
 
 router.post('/workouts', async (req, res) => {
     try {
-        let result = await Workout.create({});
-        res.status(200).json(result);
+        let workout = await Workout.create({});
+        res.status(200).json(workout);
     } catch (err) {
         res.status(500).json(err);
     }
