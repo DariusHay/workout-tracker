@@ -18,7 +18,7 @@ This is an application that creates allows the user to create, review, and updat
 ## Installation
 
 These are the required npm package installments needed to use create this application,
- "dotenv", "express", "mysql2", "sequelize". 
+ "express", "mongoose", "morgan". 
 
 ## Deployed
 
