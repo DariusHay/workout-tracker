@@ -11,7 +11,7 @@ This is an application that creates allows the user to create, review, and updat
 1. [Installation requirements](#installation)
 2. [Deployed App](#Deployed)
 3. [Contributions](#contributing)
-4. [screenshots] (#Screenshots)
+4. [screenshots](#Screenshots)
 5. [License](#license)
 6. [Questions](#questions)
 
